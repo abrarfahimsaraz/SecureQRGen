@@ -58,11 +58,9 @@
 
 Contributions are welcome! Feel free to fork the repository, submit pull requests, or raise issues.
 
-## Authors 👨‍💻👩‍💻
+## Author👨‍💻
 
-- Abrar Fahim: GUI Design and Report Writing
-- Muhammed Ahnaf Khan: Main Code Implementation and Troubleshooting
-- Md. Ahasanul Adib: Encryption Implementation
+- Abrar Fahim: GUI Design, Encryption Implementation & Troubleshooting
 
 ## License 📜
 
